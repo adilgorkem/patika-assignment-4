@@ -1,0 +1,11 @@
+html {font-family: 'Open Sans', sans-serif;}
+body {background-color:indianred;}
+header {background-color: darkolivegreen;}
+.ozet {border: 1px solid darkolivegreen; 
+    border-radius: 5%;
+background-color: aliceblue;}
+.ikon:hover {
+    background-color: aliceblue;
+    cursor:cell;
+}
+.ozet:hover {background-color:coral;}
