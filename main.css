@@ -8,5 +8,7 @@ background-color: aliceblue;}
     background-color: aliceblue;
     cursor:cell;
 }
-.ozet:hover {background-color:coral;}
+.ozet:hover {background-color:coral; box-shadow: 4px -5px 51px -3px rgba(0,0,0,0.52);
+    -webkit-box-shadow: 4px -5px 51px -3px rgba(0,0,0,0.52);
+    -moz-box-shadow: 4px -5px 51px -3px rgba(0,0,0,0.52);}
 .ozet:active {background-color: cadetblue;}
