@@ -9,3 +9,4 @@ background-color: aliceblue;}
     cursor:cell;
 }
 .ozet:hover {background-color:coral;}
+.ozet:active {background-color: cadetblue;}
